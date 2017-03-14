@@ -1,0 +1,61 @@
+div.center{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    color: #60718C;
+    margin-bottom: 2cm;
+
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div > h1 {
+    font-family: Arial;
+    font-size: 3em;
+    color: #60718C;
+}
+
+.posttext {
+    font-family: Arial;
+    font-size: 1.2em;
+    color: grey;
+}
+
+.linktext {
+    font-family: Arial;
+    font-size: 1.2em;
+    color: red;
+}
+
+input[type=text] {
+    width: 300px;
+    font-size: 2em;
+}
+
+#sidepanel {
+    font-family: Arial;
+    color: #60718C;
+    font-weight: bold;
+}
+
+.fa {
+    font-size: 100px;
+    color: #60718C;
+}
+
+#social {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    color: #60718C;
+    margin-bottom: 2cm;
+
+}
